@@ -6,6 +6,11 @@ This is a project creating the website of a business called Agriplus.
 # Technologies Used
 *HTML
 *CSS
+# Set Up Instructions
+* Open the terminal command line[ctrl+alt+t]
+* Clone the repository
+* cd AgriPlus-website
+* Open index.html file on your browser
 # License
 MIT License
 
