@@ -1,7 +1,8 @@
 # AgriPLus-website
 # Author
 Silvia Wachira
-
+# Description
+This is a project creating the website of a business called Agriplus.  
 # License
 MIT License
 
