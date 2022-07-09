@@ -11,6 +11,7 @@ This is a project creating the website of a business called Agriplus.
 * Clone the repository<br>
 * cd AgriPlus-website<br>
 * Open index.html file on your browser
+# Live page
 # License
 MIT License
 
