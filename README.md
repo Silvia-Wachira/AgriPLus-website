@@ -1,4 +1,6 @@
 # AgriPLus-website
+# Author
+Silvia Wachira
 
 # License
 MIT License
