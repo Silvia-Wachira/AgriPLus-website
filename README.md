@@ -2,7 +2,10 @@
 # Author
 Silvia Wachira
 # Description
-This is a project creating the website of a business called Agriplus.  
+This is a project creating the website of a business called Agriplus.
+# Technologies Used
+*HTML
+*CSS
 # License
 MIT License
 
