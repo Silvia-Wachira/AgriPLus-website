@@ -132,6 +132,10 @@ ul {
     font-size: small;
     padding-bottom: 110px;
 }
+.vend{
+    display: flex;
+    background-color: whitesmoke;
+}
  .exist h2{
     margin-left: 200px;
 }
@@ -163,7 +167,7 @@ ul {
     margin-top: 1px;
     padding-top: -10px;
 }
-.cards{
+/* .cards{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -171,12 +175,12 @@ ul {
     height: 100px;
     height: 500px;
     margin-left: -50px;
-    
-    
+     */
+/*     
 }
 .cards2{
     /* width: 30%; */
-    /* max-width: 30%; */
+    max-width: 30%; 
     margin: auto;
     display: block;
     padding-right: 50px;
@@ -186,7 +190,8 @@ ul {
     height: 100px;
     height: 500px;
     margin-left: 350px;
-}
+} 
+
 .carrotimg{
     justify-content: center;
     height: 100px;
@@ -197,6 +202,7 @@ ul {
 }
 .carrots{
     margin-left: -250px;
+    display: flex;
 }
 .carrots h3{
     font-size: 22px;
@@ -206,9 +212,6 @@ ul {
 /* .carrots p{
 
 } */
-.popular{
-    margin: 90px auto 0;
-}
 .most{
     color: black;
     font-size: 20px;
@@ -229,6 +232,17 @@ ul {
     font-size: 20px;
     color: black;
 }
+.popular{
+    display: flex;
+}
+.newest{
+    display: flex;
+}
+.cards3{
+    max-width: 100%;
+    max-height: 100%;
+}
+
 .footer1{
     background-color: black;
     color: white;
@@ -248,7 +262,12 @@ ul {
     background-color: black;
     color: white;
 }
-.comfoot{
+.foot2{
+    display: flex;
+    text-align: center; 
+    justify-content: space-between;
+}
+/* .comfoot{
     text-align: center;
     display: flex;
     justify-content: space-between;
@@ -264,4 +283,4 @@ ul {
 #others{
     text-align: center;
     display: flex;
-}
+} */
