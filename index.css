@@ -336,12 +336,75 @@ ul {
     height: 20px;
     padding-top: 2px;
     background-color: grey;
-
+    margin-top: 30px;
 }
 .shadow{
     background-color: gray;
     color: grey;
 }
+.esteemed{
+    font-weight: 400px;
+    margin-left: 150px;
+    font-size: 35px;
+}
+.mkulima{
+    display: flex;
+    margin-right: 100px;
+    margin-left: 300px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.rebecca{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: -300px;
+    margin-right: 300px;
+}
+.rebecca img{
+    height: 50px;
+    width: 50px;
+    margin-left: 100px;
+}
+.rebecca h3{
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+}
+.customer{
+    display: flex;
+    margin-right: 200px;
+}
+.customer p{
+    display: flex;
+    font-weight: 400px;
+    font-size: 15px;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+
+/* .rebecca{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: -300px;
+}
+.rebecca img{
+    height: 50px;
+    width: 50px;
+    margin-left: 100px;
+}
+.rebecca h3{
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+} */
 
 .footer1{
     background-color: black;
