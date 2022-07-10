@@ -539,6 +539,10 @@ p #pp{
 .linef{
     border: none;
 }
+#icons{
+    display: flex;
+    background-color: white;
+}
 .footer2{
     background-color: black;
     color: white;
@@ -547,32 +551,18 @@ p #pp{
     padding-bottom: 350px;
     /* margin-bottom: 150px; */
 }
-.foot2{
-    display: flex;
-    text-align: center; 
-    justify-content: space-between;
-    margin-right: 180px;
-}
+
 .foot3{
     display: flex;
     text-align: center; 
     justify-content: space-between;
     margin-right: 180px;
 }
-/* .comfoot{
-    text-align: center;
-    display: flex;
-    justify-content: space-between;
+.foot3 h2{
+    font-size: 20px;
 }
-#company{
-    text-align: center;
-    display: flex;
+.foot3 p{
+    margin-bottom: 200px;
+    margin-left: 500px;
 }
-#products{
-    text-align: center;
-    display: flex;
-}
-#others{
-    text-align: center;
-    display: flex;
-} */
+
