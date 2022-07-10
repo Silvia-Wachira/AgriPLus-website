@@ -360,31 +360,52 @@ ul {
     text-align: center;
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 10px;
     margin-left: -300px;
     margin-right: 300px;
+    margin-bottom: 500px;
 }
 .rebecca img{
-    height: 50px;
-    width: 50px;
+    height: 60px;
+    width: 60px;
     margin-left: 100px;
+    margin-top: 130px;
 }
 .rebecca h3{
     font-weight: bold;
-    font-size: 12px;
+    font-size: 18px;
     text-align: center;
+    margin-top: 150px;
+    margin-left: 20px;
+    margin-right: -250px;
 }
 .customer{
     display: flex;
     margin-right: 200px;
+    width: 50%;
+    max-width: 50%;
+    height: 300px;
+}
+.customer :hover{
+    box-shadow: orange 2px 4px 4px 4px;
+    cursor: pointer;
 }
 .customer p{
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 30px;
+    margin-left: -100px;
+    margin-bottom: 500px;
+}
+p #pp{
     display: flex;
     font-weight: 400px;
     font-size: 15px;
     margin-right: 30px;
     margin-left: 10px;
-}
+    margin-bottom: 100px;
+} 
 
 /* .rebecca{
     height: 100px;
