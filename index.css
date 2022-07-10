@@ -248,13 +248,51 @@ ul {
     margin-left: 10%;
     justify-content: space-around;
      
-}
-.cards2{
+} .cards2{
     width: 50%;
-     margin-left: 500px; 
+     margin-left: 400px; 
      margin-top: 50px; 
     display: flex;
     justify-content: space-between;
+} 
+#carrots{
+    width: 200px;
+    height: 200px;
+    margin-left: 400px;
+}
+#kales{
+    margin-top: 220px;
+    margin-left: -190px;
+}
+#kales p{
+    margin-right: -190px;
+    margin-left: 10px;
+    font-size: 18px;
+}  
+#kales h3{
+    margin-right: -190px;
+}
+.newest{
+    display: flex;
+    width: 0px;
+    margin-left: -5px;
+}
+#chicken{
+    width: 200px;
+    height: 200px;
+    margin-left: -200px;
+}
+#rice{
+    margin-top: 220px;
+    margin-left: -190px;
+}
+#rice p{
+    margin-right: 90px;
+    margin-left: 10px;
+    font-size: 18px;
+}  
+#rice h3{
+    margin-right: -190px;
 }
  .cards3{
     display: flex;
@@ -265,6 +303,12 @@ ul {
     max-width: 100%; 
     max-height: 100%;
 
+}
+.see{
+    display: flex;
+    color: #ED661F;
+    margin-left: 1500px;
+    mar
 }
 .shadow{
     background-color: gray;
