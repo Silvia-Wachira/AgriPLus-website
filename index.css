@@ -323,6 +323,21 @@ ul {
     font-size: 20px;
     border: none;
 }
+.line{
+    width: 60px;
+    height: 2px;
+    padding-top: 2px;
+    background-color: #ED661F;
+    margin-left: 1570px;
+    margin-top: -90px;
+}
+.line1{
+    width: 110%;
+    height: 20px;
+    padding-top: 2px;
+    background-color: grey;
+
+}
 .shadow{
     background-color: gray;
     color: grey;
