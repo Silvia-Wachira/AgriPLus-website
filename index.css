@@ -551,14 +551,14 @@ p #pp{
     display: flex;
     justify-content: space-between;
     padding-bottom: 350px;
-    margin-bottom: 950px;
+    margin-bottom: 550px;
     height: 10px;
 }
 .foot2{
     display: inline-block;
     justify-content: center;
     margin-top: 50px;
-    margin-right: 2px;
+    
 }
 /* .foot3{
     display: flex;
