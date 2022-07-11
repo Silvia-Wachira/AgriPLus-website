@@ -542,6 +542,8 @@ p #pp{
 #icons{
     display: flex;
     background-color: white;
+    margin-top: 200px;
+    margin-right: 900px;
 }
 .footer2{
     background-color: black;
@@ -549,20 +551,28 @@ p #pp{
     display: flex;
     justify-content: space-between;
     padding-bottom: 350px;
-    /* margin-bottom: 150px; */
+    margin-bottom: 950px;
+    height: 10px;
 }
-
-.foot3{
+.foot2{
+    display: inline-block;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 2px;
+}
+/* .foot3{
     display: flex;
     text-align: center; 
     justify-content: space-between;
     margin-right: 180px;
+    
 }
 .foot3 h2{
-    font-size: 20px;
+    font-size: 20px; */
 }
-.foot3 p{
+/* .foot3 p{
     margin-bottom: 200px;
     margin-left: 500px;
-}
+} */ */
+
 
