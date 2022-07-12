@@ -574,5 +574,22 @@ p #pp{
     margin-bottom: 200px;
     margin-left: 500px;
 } */ */
+.feet{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    position: relative;
+}
+.form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+}
 
 
