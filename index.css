@@ -31,6 +31,7 @@ body{
     align-items: center;
     list-style: none;
     background-color: black;
+    height: 100px;
 }
 .navbar ul{
     display: flex;
@@ -63,6 +64,9 @@ body{
     align-items: center;
     list-style: none;
     text-decoration: none;
+}
+.agri{
+    font-size: 50px;
 }
 #btn{
     
@@ -388,6 +392,7 @@ ul {
     font-weight: 400px;
     margin-left: 150px;
     font-size: 35px;
+   
 }
 .line1{
     margin-right: 500px;
@@ -436,6 +441,7 @@ ul {
     width: 50%;
     max-width: 50%;
     height: 300px;
+
 }
 .customer p{
     display: flex;
@@ -492,25 +498,7 @@ p #pp{
     margin-right: 150px;
 }
 
-/* .rebecca{
-    height: 100px;
-    width: 100px;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-    margin-left: -300px;
-}
-.rebecca img{
-    height: 50px;
-    width: 50px;
-    margin-left: 100px;
-}
-.rebecca h3{
-    font-weight: bold;
-    font-size: 12px;
-    text-align: center;
-} */
+
 
 .footer1{
     background-color: black;
@@ -560,20 +548,6 @@ p #pp{
     margin-top: 50px;
     
 }
-/* .foot3{
-    display: flex;
-    text-align: center; 
-    justify-content: space-between;
-    margin-right: 180px;
-    
-}
-.foot3 h2{
-    font-size: 20px; */
-}
-/* .foot3 p{
-    margin-bottom: 200px;
-    margin-left: 500px;
-} */ */
 .feet{
     display: flex;
     flex-direction: row;
@@ -583,13 +557,31 @@ p #pp{
     color: white;
     width: 100%;
     position: relative;
+    height: 200px;
 }
-.form{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    color: white;
+footer{
     background-color: black;
+    color: white;
 }
 
+.google{
+
+}
+.links{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: left;
+    margin-bottom: 0px;
+    height: 400px;
+}
+.terms{
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+
+}
+*{
+    font-size: 1vw;
+}
 
