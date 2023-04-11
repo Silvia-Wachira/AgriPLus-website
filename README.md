@@ -1,6 +1,6 @@
 # AgriPLus-website
 # Author
-Silvia N Wachira
+Silvia Wachira
 # Description
 This is a project creating the website of a business called Agriplus.
 # Technologies Used
